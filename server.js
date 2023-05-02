@@ -31,6 +31,12 @@ const kimMethod1 = () => {
   console.log("Kim's method 1");
 };
 
+
+const bethFunctionOne = () => {
+  console.log("Hellooo from beths function one")
+};
+
 const RayFuncionOne = () => {
   console.log("GGMU");
 };
+

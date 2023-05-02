@@ -30,6 +30,6 @@ const kimMethod1 = () => {
   console.log("Kim's method 1");
 };
 
-const RayFuncionOne = () => {
-  console.log("GGMU");
-};
+const RaysNewFunction=()=>{
+  console.log("New function");
+}

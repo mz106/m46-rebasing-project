@@ -1,9 +1,9 @@
 const michaelFuncOne = () => {
-  console.log("Michaels func one");
+  console.log("Michael's func one");
 };
 
 const michaelFuncTwo = () => {
-  console.log("michaels func two");
+  console.log("Michael's func two");
 };
 
 const joshFuncOne = () => {
@@ -15,5 +15,5 @@ const joshFuncTwo = () => {
 };
 
 const damienFuncOne = () => {
-    console.log("Damien func one");
+    console.log("Damien's func one");
 };

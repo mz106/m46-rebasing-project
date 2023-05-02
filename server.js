@@ -1,18 +1,15 @@
 const michaelFuncOne = () => {
-	console.log("Michael's func one");
+  console.log("Michael's func one");
 };
 
 const doStuffWithThings = function (things) {
-	things.forEach(thing => doStuff(thing));
+  things.forEach(thing => doStuff(thing));
 };
 
 const doMoreStuffWithMoreThings = function (moreThings) {
 	moreThings.forEach(thing => doMoreStuff(thing));
 };
 
-const michaelFuncTwo = () => {
-	console.log("Michael's func two");
-};
 
 const alexFuncOne = () => {
 	console.log("Alexs func one");
@@ -25,17 +22,5 @@ const joshFuncOne = () => {
 };
 
 const joshFuncTwo = () => {
-	console.log("Hello team two friends!");
-};
 
-const damienFuncOne = () => {
-	console.log("Damien func one");
-};
-
-const kimMethod1 = () => {
-	console.log("Kim's method 1");
-};
-
-const RayFuncionOne = () => {
-	console.log("GGMU");
 };

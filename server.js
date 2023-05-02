@@ -38,6 +38,18 @@ const RayFunctionOne = () => {
 
 };
 
+
+const kimMethod1 = () =>
+{
+  console.log("Kim's method 1")
+}
+const RayFuncionOne=()=>{
+    console.log("GGMU");
+}
+const samraFuncThree = () => {
+  console.log("Hello team three friends!");
+};
+
 const hollieFuncOne = () => {
   console.log("hello from hollie!");
 }
@@ -45,3 +57,4 @@ const RaysNewFunction=(()=>{
   console.log("New function");
 
 })();
+

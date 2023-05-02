@@ -1,16 +1,14 @@
 const michaelFuncOne = () => {
-	console.log("Michael's func one");
+  console.log("Michael's func one");
 };
 
 const doStuffWithThings = function (things) {
-	things.forEach(thing => doStuff(thing));
+  things.forEach(thing => doStuff(thing));
 };
 
 const michaelFuncTwo = () => {
   console.log("Michael's func two");
 };
-
-
 
 const alexFuncOne = () => {
   console.log("Alexs func one");
@@ -26,13 +24,19 @@ const joshFuncTwo = () => {
 };
 
 const damienFuncOne = () => {
-    console.log("Damien func one");
-  };
+  console.log("Damien func one");
+};
 
-const RayFuncionOne=()=>{
-    console.log("GGMU");
-}
+const kimMethod1 = () => {
+  console.log("Kim's method 1");
+};
+
 
 const bethFunctionOne = () => {
   console.log("Hellooo from beths function one")
 };
+
+const RayFuncionOne = () => {
+  console.log("GGMU");
+};
+

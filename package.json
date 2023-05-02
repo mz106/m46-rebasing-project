@@ -8,5 +8,20 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+<<<<<<< HEAD
+
+    "express": "^4.18.2",
+
+    "sequelize": "^6.31.1"
+
+=======
+<<<<<<< HEAD
+    "sequelize": "^6.31.1"
+=======
+    "express": "^4.18.2"
+>>>>>>> 2ccfbce (install express)
+>>>>>>> de94d36 (install express)
+  }
 }

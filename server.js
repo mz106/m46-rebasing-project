@@ -33,3 +33,11 @@ const RayFuncionOne=()=>{
     console.log("GGMU");
 }
 
+
+
+const allisterFuncOne = () => {
+    console.log("allisters func one");
+  };
+
+
+

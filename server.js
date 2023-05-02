@@ -23,4 +23,23 @@ const joshFuncOne = () => {
 
 const joshFuncTwo = () => {
 
+
+
+
+
+const bethFunctionOne = () => {
+  console.log("Hellooo from beths function one")
 };
+
+const RayFuncionOne = () => {
+  console.log("GGMU");
+
+};
+
+const hollieFuncOne = () => {
+  console.log("hello from hollie!");
+
+const RaysNewFunction=()=>{
+  console.log("New function");
+
+}

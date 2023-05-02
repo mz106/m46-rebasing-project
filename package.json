@@ -11,9 +11,13 @@
   "license": "ISC",
   "dependencies": {
 <<<<<<< HEAD
+<<<<<<< HEAD
     "sequelize": "^6.31.1"
 =======
     "express": "^4.18.2"
 >>>>>>> 2ccfbce (install express)
+=======
+    "express": "^4.18.2"
+>>>>>>> 86c6aca5c11f950b5bbdbd8dae131f27dbba106f
   }
 }

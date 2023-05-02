@@ -10,9 +10,10 @@ const doMoreStuffWithMoreThings = function (moreThings) {
 	moreThings.forEach(thing => doMoreStuff(thing));
 };
 
-const michaelFuncTwo = () => {
-	console.log("Michael's func two");
+const doMoreStuffWithMoreThings = function (moreThings) {
+	moreThings.forEach(thing => doMoreStuff(thing));
 };
+
 
 const alexFuncOne = () => {
 	console.log("Alexs func one");
@@ -25,16 +26,6 @@ const joshFuncOne = () => {
 };
 
 const joshFuncTwo = () => {
-  console.log("Hello team two friends!");
-};
-
-const damienFuncOne = () => {
-  console.log("Damien func one");
-};
-
-const kimMethod1 = () => {
-  console.log("Kim's method 1");
-};
 
 const RaysNewFunction=()=>{
   console.log("New function");

@@ -44,3 +44,10 @@ const RaysNewFunction = () => {
 const craigNewFunction = () => {
     console.log("Craig's new function");
   };
+
+const allisterFuncOne = () => {
+    console.log("allisters func one");
+  };
+
+
+

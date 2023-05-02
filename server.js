@@ -1,5 +1,5 @@
 const michaelFuncOne = () => {
-	console.log("Michaels func one");
+	console.log("Michael's func one");
 };
 
 const doStuffWithThings = function (things) {

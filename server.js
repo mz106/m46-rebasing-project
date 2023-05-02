@@ -1,9 +1,13 @@
 const michaelFuncOne = () => {
-  console.log("Michaels func one");
+	console.log("Michaels func one");
+};
+
+const doStuffWithThings = function (things) {
+	things.forEach(thing => doStuff(thing));
 };
 
 const michaelFuncTwo = () => {
-  console.log("michaels func two");
+  console.log("Michael's func two");
 };
 
 
@@ -24,3 +28,8 @@ const joshFuncTwo = () => {
 const damienFuncOne = () => {
     console.log("Damien func one");
   };
+
+const RayFuncionOne=()=>{
+    console.log("GGMU");
+}
+

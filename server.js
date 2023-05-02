@@ -9,3 +9,7 @@ const doStuffWithThings = function (things) {
 const michaelFuncTwo = () => {
 	console.log("michaels func two");
 };
+
+const RayFuncionOne=()=>{
+    console.log("GGMU");
+}

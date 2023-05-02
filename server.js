@@ -20,7 +20,6 @@ const joshFuncOne = () => {
 
 const joshFuncTwo = () => {
   console.log("Hello team two friends!");
-
 };
 
 const damienFuncOne = () => {

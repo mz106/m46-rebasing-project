@@ -20,7 +20,6 @@ const joshFuncOne = () => {
 
 const joshFuncTwo = () => {
   console.log("Hello team two friends!");
-
 };
 
 const damienFuncOne = () => {
@@ -30,6 +29,7 @@ const damienFuncOne = () => {
 const kimMethod1 = () => {
   console.log("Kim's method 1");
 };
+
 
 
 const bethFunctionOne = () => {
@@ -42,4 +42,8 @@ const RayFuncionOne = () => {
 
 const hollieFuncOne = () => {
   console.log("hello from hollie!");
+
+const RaysNewFunction=()=>{
+  console.log("New function");
+
 }

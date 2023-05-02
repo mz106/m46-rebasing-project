@@ -5,3 +5,7 @@ const michaelFuncOne = () => {
 const michaelFuncTwo = () => {
   console.log("michaels func two");
 };
+
+const alexFuncOne = () => {
+  console.log("Alexs func one");
+};

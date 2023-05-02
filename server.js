@@ -40,3 +40,6 @@ const RayFuncionOne = () => {
   console.log("GGMU");
 };
 
+const hollieFuncOne = () => {
+  console.log("hello from hollie!");
+}

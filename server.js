@@ -43,7 +43,7 @@ const kimMethod1 = () =>
 {
   console.log("Kim's method 1")
 }
-const RayFuncionOne=()=>{
+const RayFunctionOne=()=>{
     console.log("GGMU");
 }
 const samraFuncThree = () => {
@@ -55,6 +55,5 @@ const hollieFuncOne = () => {
 }
 const RaysNewFunction=(()=>{
   console.log("New function");
-
 })();
 

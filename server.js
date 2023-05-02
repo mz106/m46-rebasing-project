@@ -40,3 +40,14 @@ const hollieFuncOne = () => {
 const RaysNewFunction = () => {
   console.log("New function");
 };
+
+const craigNewFunction = () => {
+    console.log("Craig's new function");
+  };
+
+const allisterFuncOne = () => {
+    console.log("allisters func one");
+  };
+
+
+

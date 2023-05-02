@@ -15,3 +15,7 @@ const alexFuncOne = () => {
   console.log("Alexs func one");
 };
 
+
+const damienFuncOne = () => {
+    console.log("Damien func one");
+  };
